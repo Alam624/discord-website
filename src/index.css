@@ -22,8 +22,8 @@
   }
 
   .navlink {
-    @apply px-4 py-3  text-gray-300 m-3 rounded-md
-    hover:bg-gray-700
+    @apply px-4 py-2  text-gray-300 m-3 rounded-md
+    hover:bg-gray-700 flex-row flex
   }
 }
 html {

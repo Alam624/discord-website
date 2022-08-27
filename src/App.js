@@ -2,6 +2,7 @@ import "./App.css";
 import SideBar from "./SideBar";
 import Page from "./Page";
 import NavBar from "./NavBar";
+import MemberList from "./MemberList";
 
 function App() {
 
@@ -16,7 +17,8 @@ function App() {
   // };
 
   return (
-    <div className="flex">
+    <div className="flex relative">
+      
       <SideBar />
 
       <NavBar/>
@@ -117,8 +119,9 @@ function App() {
           </p>
         </section>
       </div>
+
       <div className=" sticky top-0 right-0 h-screen w-80 m-0 flex flex-col bg-darkGray text-white shadow-lg">
-        MemberList
+        <MemberList/>
       </div>
     </div>
   );
