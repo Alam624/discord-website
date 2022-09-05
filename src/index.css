@@ -6,8 +6,8 @@
   .sidebar-icon {
     @apply relative flex items-center justify-center 
              h-12 w-12 mt-2 mb-2 mx-auto shadow-lg
-             bg-gray-500 text-white
-             hover:bg-blue-500 hover:text-white
+             bg-gray-600 text-green-500
+             hover:bg-green-600 hover:text-white
              rounded-3xl hover:rounded-xl
              transition-all duration-300 ease-linear
              cursor-pointer;
@@ -24,6 +24,10 @@
   .navlink {
     @apply px-4 py-2  text-gray-300 m-3 rounded-md
     hover:bg-gray-700 flex-row flex
+  }
+
+  .project-cards {
+    @apply rounded-2xl py-5 px-4 min-w-[250px] max-w-[300px] flex-1 m-4
   }
 }
 html {
