@@ -4,8 +4,14 @@ import NavBar from "./NavBar";
 import MemberList from "./MemberList";
 import MyImage from "./andrewfacecropped.png";
 import { Avatar, Badge } from "flowbite-react";
+import {useEffect} from 'react'
+import React from "react";
 
 function App() {
+  useEffect(() => {
+    document.title = "Andrew Lam Portfolio"
+ }, []);
+
   return (
     <div className="flex relative">
       <SideBar />
