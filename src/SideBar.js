@@ -18,7 +18,7 @@ const SideBar = () => {
 
       <Tooltip title="CV" placement="right" arrow>
         <a
-          href="https://drive.google.com/file/d/1ZRwAuqwR96_9L4rPFxcrhU9DM9_Bwp2a/view?usp=sharing"
+          href="https://drive.google.com/file/d/1u-iscJ81uIrYYHbeK4rrCmugkxbS3U9E/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >

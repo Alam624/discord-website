@@ -143,7 +143,7 @@ function App() {
                   and Tailwind CSS
                 </p>
               </div>
-              <a href="https://github.com/Alam624/job-listing-viewer"> 
+              <a href="https://github.com/Alam624/job-listing-viewer" target="_blank" rel="noreferrer"> 
               <div className="project-cards bg-green-500">
                 <div className="text-xl pb-4">Job Listing Viewer</div>
                 <p className="text-base">
@@ -154,7 +154,7 @@ function App() {
                 </p>
               </div>
               </a>
-              <a href="https://github.com/Alam624/Quick-Draw">
+              <a href="https://github.com/Alam624/Quick-Draw" target="_blank" rel="noreferrer">
               <div className="project-cards bg-red-500">
                 <div className="text-xl pb-4">Quick, Draw!</div>
                 <p className="text-base">
@@ -183,7 +183,7 @@ Worked together with Frontend members to outline requirements that would achieve
                   Worked fullstack in a team of 9 to develop a webapp using React Typescript, Express and Prisma.
                 </p>
               </div>
-              <a href="https://github.com/Alam624">
+              <a href="https://github.com/Alam624" target="_blank" rel="noreferrer">
               <div className="project-cards bg-yellow-500">
                 <div className="text-xl pb-4">Other projects</div>
                 <p className="text-base">
