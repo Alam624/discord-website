@@ -92,7 +92,7 @@ function App() {
             looking for an internship to learn and experience the real tech
             industry first hand.
             <br />
-            Currently I'm learning React, as well as Express, MongoDB and Node.
+            Currently I'm learning React, as well as Express and Prisma for the project that I'm currently working on.
             <br />
             When I'm not working, I like to play/watch basketball, game, and
             work out
@@ -143,7 +143,7 @@ function App() {
                   and Tailwind CSS
                 </p>
               </div>
-              <a href="https://job-listing-viewer.netlify.app/"> 
+              <a href="https://github.com/Alam624/job-listing-viewer"> 
               <div className="project-cards bg-green-500">
                 <div className="text-xl pb-4">Job Listing Viewer</div>
                 <p className="text-base">
@@ -154,13 +154,33 @@ function App() {
                 </p>
               </div>
               </a>
+              <a href="https://github.com/Alam624/Quick-Draw">
               <div className="project-cards bg-red-500">
                 <div className="text-xl pb-4">Quick, Draw!</div>
                 <p className="text-base">
                   {" "}
-                  Currently developing a clone of the Google Quick, Draw! game,
+                  A clone of the Google Quick, Draw! game,
                   using JavaFX. Uses machine learning to determine if the play
                   has won or lost.
+                </p>
+              </div>
+
+              </a>
+              <div className="project-cards bg-pink-500">
+                <div className="text-xl pb-4">AEYB Meeting Planner</div>
+                <p className="text-base">
+                  {" "}
+                  Worked as a Backend Member to build and refine an API using Typescript.
+Worked together with Frontend members to outline requirements that would achieve client’s needs.
+
+                </p>
+              </div>
+              <div className="project-cards bg-orange-500">
+                <div className="text-xl pb-4">WDCC Membership Checker</div>
+                <p className="text-base">
+                  {" "}
+                  A webapp that allows clubs to create and customise their own membership checker website.
+                  Worked fullstack in a team of 9 to develop a webapp using React Typescript, Express and Prisma.
                 </p>
               </div>
               <a href="https://github.com/Alam624">
